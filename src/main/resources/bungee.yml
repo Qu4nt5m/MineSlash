@@ -1,0 +1,4 @@
+name: MineSlash
+version: '${project.version}'
+main: me.theboykiss.ovh.mineslash.MineSlash
+author: TheBoykissOld

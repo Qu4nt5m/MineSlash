@@ -1,2 +1,9 @@
-# config.yml
-lobby-server: lobby
+lobby-server: "lobby"
+# HEX Color: #53FCCBTest Color
+messages:
+  sent-to-lobby-single: "&aHas sido enviado al servidor &b<lobby>&a."
+  sent-to-lobby-multi:
+    - "&cHas sido expulsado del servidor anterior."
+    - "&aHas sido enviado al servidor &b<lobby>&a."
+settings:
+  use-multi-line-message: false
